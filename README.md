@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @huuluc10<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Flutter<br>- 📫 How to reach me lucnguyenhuu91@gmail.com
+👋 Hi, I’m @huuluc10<br>- 👀 I’m interested in coding<br>- 🌱 I’m currently learning Flutter, Kotlin<br>- 📫 How to reach me lucnguyenhuu91@gmail.com
 
 
 ## 🌐 Socials:
